@@ -1,6 +1,6 @@
-# Belajar Bootstrap Dasar
+# Belajar bootstrap dasar
 
-Repository ini berisi latihan dasar Bootstrap cevest
+Repository ini berisi latihan dasar bootstrap cevest
 
 ## Materi
 
